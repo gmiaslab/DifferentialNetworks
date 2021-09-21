@@ -1,0 +1,11 @@
+#!/bin/bash --login
+#SBATCH --time=1:40:13           # running time request
+#SBATCH --nodes=1                # the number of computer node 
+####SBATCH --ntasks=1		     # only 1 task for this computation 	
+#SBATCH --tasks-per-node=1
+#SBATCH --cpus-per-task=1        # only 1 core is needed 
+#SBATCH --mem=41G                # the memory needed for this task
+#SBATCH --job-name=Bcell_script
+
+cd $SLURM_SUBMIT_DIR    	   	 #### change to the code directory
+python Bcell_script.py
