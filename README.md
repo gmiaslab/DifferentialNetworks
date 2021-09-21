@@ -1,5 +1,5 @@
 # Differential Network Analysis of Longitudinal Gene Expression in Response to Perturbations
-This repository implements the research paper, where the data, code, and supplementary materials can all be found.
+This repository implements the research paper by Xue et al., where the data, code, and supplementary materials can all be found.
 
 ### Requirements and Dependencies
 The code has been executed in Python 3.8 (and there may be incompatibilities with different Python versions). The Wolfram Language was used to generate the network plots, for better visualization of - to obtain the plots shown in this paper Mathematica (version 12.0.0+) must be installed. Other dependencies include: 
@@ -30,4 +30,4 @@ This study was funded by the Translational Research Institute for Space Health t
 
 ## Contact Information
 * Code Contributor: Shuyue Xue (xueshuy1@msu.edu)
-* Project Primary Investigators (PIs): Professor George Mias (gmias@msu.edu) and Professor Carlo Piermarocchi (piermaro@msu.edu)
+* Project Principal Investigators (PIs): Professor George Mias (gmias@msu.edu) and Professor Carlo Piermarocchi (piermaro@msu.edu)
