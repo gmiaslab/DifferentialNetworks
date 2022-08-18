@@ -1,4 +1,4 @@
-# Applying Differential Network Analysis toLongitudinal Gene Expression in Response to Perturbations
+# Applying Differential Network Analysis to Longitudinal Gene Expression in Response to Perturbations
 This repository implements the research paper by Xue et al., where the data, code, and supplementary materials can all be found.
 
 ### Requirements and Dependencies
