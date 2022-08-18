@@ -1,4 +1,4 @@
-# Differential Network Analysis of Longitudinal Gene Expression in Response to Perturbations
+# Applying Differential Network Analysis toLongitudinal Gene Expression in Response to Perturbations
 This repository implements the research paper by Xue et al., where the data, code, and supplementary materials can all be found.
 
 ### Requirements and Dependencies
@@ -29,5 +29,5 @@ For more details, please refer to the comments within the code. The results from
 This study was funded by the Translational Research Institute for Space Health through National Aeronautics and Space Administration (NASA) Cooperative Agreement NNX16AO69A (Project Number T0412, PI: Prof. George Mias). 
 
 ## Contact Information
-* Code Contributor: Shuyue Xue (xueshuy1@msu.edu)
+* Code Contributor/First Author: Shuyue Xue (xueshuy1@msu.edu)
 * Project Principal Investigators (PIs): Professor George Mias (gmias@msu.edu) and Professor Carlo Piermarocchi (piermaro@msu.edu)
